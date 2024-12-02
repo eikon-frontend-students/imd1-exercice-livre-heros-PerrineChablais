@@ -6,5 +6,40 @@ body {
 a {
   color: white;
 }
+.box {
+  max-width: 968px;
+  background-color: white;
+  stroke: black;
+  box-shadow: black;
+  display: flex;
+}
+img {
+  margin: 13px;
+  width: 320px;
+  height: 341px;
+  border: 2px solid #000;
+}
+h1 {
+  color: #000;
+  font-family: Aboreto;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+h2 {
+  width: 323px;
+  height: 54px;
+  color: #550509;
+  font-family: "Albert Sans";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+p {
+  margin-top: auto;
+  color: black;
+}
 
-/* 🦊 Compléter les styles de votre teaser  */
+/* 🦊 Copléter les styles de votre teaser  */
